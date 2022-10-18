@@ -6,7 +6,7 @@
 - 👀 I’m interested in... clean code, honest feedback, art, music, film, literature, meditation.
 - 🌱 I’m currently learning... how to learn?
 - 💞️ I’m looking to collaborate on... anything even tangentially related to the above.
-- 📫 How to reach me... github email or a shout out the window.
+- 📫 How to reach me... github email.
 
 ## Familiar with:
 
